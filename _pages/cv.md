@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information Science, University of Groningen, 2016
-* M.S. in Artificial Intelligence, University of Groningen, 2014
+* M.S. in Artificial Intelligence, University of Groningen, 2018
 * Ph.D in Multimodal Information Retrieval, University of Groningen, 2023 (expected)
 
 Work experience
